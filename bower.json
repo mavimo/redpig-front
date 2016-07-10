@@ -1,0 +1,20 @@
+{
+  "name": "redpig-front",
+  "homepage": "https://github.com/kevindo0/redpig-front",
+  "authors": [
+    "kevindo0 <2572207199@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

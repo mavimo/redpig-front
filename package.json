@@ -1,0 +1,25 @@
+{
+  "name": "redpig-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindo0/redpig-front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevindo0/redpig-front/issues"
+  },
+  "homepage": "https://github.com/kevindo0/redpig-front#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.2",
+    "gulp-jade": "^1.1.0",
+    "gulp-livereload": "^3.8.1"
+  }
+}
