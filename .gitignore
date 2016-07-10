@@ -1,2 +1,4 @@
-bower_components/
+src/public/bower_components/
+src/public/*.html
 node_modules/
+*.html
